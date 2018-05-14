@@ -1,0 +1,28 @@
+Blizzard Project SCRUM Report: Week 3
+
+Team B-Triple-J: Brandon Donohue, Joseph Townsend, John Moreno, Jonathan Wang
+
+Our app should work on any web browser that supports WebGL.
+
+App Features
+•	Basic Earth object created
+•	Basic Izzy object created
+•	Single basic Arklet object created
+•	Camera position adjustable
+•	Zoom enabled
+•	Earth properly rotates
+•	Izzy properly moves away from Earth while rotating around it
+•	Arklet properly follows Izzy
+•	Earth textured
+•	Bolids randomly generate
+•	Bolids textured
+•	Starry skybox included
+•	Bolids move towards Earth
+•	Izzy sprite added
+•	Arklet sprites added
+•	Arklets generated
+•	Arklets move around Izzy
+•	Arklets deleted upon impact with bolid
+
+Progress was made on the physics engine as planned. However, only the basic parts and the deletion of the arklets upon contact 
+with a bolid was completed. In week 4 we plan to complete the physics engine and tidy up the graphics. 

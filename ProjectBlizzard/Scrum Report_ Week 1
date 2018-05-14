@@ -1,0 +1,19 @@
+Blizzard Project SCRUM Report: Week 1
+
+Team B-Triple-J
+Joseph Townsend, John Moreno, Jonathan Wang, Brandon Donohue
+
+Our app should work on any web browser that supports WebGL.
+
+App Features
+•	Basic Earth object created
+•	Basic Izzy object created
+•	Single basic Arklet object created
+•	Camera position adjustable
+•	Zoom enabled
+•	Earth properly rotates
+•	Izzy properly moves away from Earth while rotating around it
+•	Arklet properly follows Izzy
+
+All objectives from week 1 were met.
+In week 2 we plan to add texture to the Earth, create meteorite cloud around Earth, and create Arklet cloud around Izzy. 
